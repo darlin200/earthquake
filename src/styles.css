@@ -1,0 +1,19 @@
+h1 {
+  margin: auto;
+  display: flex;
+  justify-content: center;
+  margin: 15px;
+}
+body {
+    height: 100vh;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+  }
+  #root,
+  .leaflet-container {
+    height: 95%;
+    width: 95%;
+    margin: auto;
+}
+  
